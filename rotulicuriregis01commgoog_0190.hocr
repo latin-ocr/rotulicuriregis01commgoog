@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./rotulicuriregis01commgoog_0190.png"; bbox 0 0 1071 1679; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 388 235 822 257">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 388 235 822 257">
+     <span class='ocr_line' id='line_1_1' title="bbox 388 235 822 257; baseline 0.009 -7"><span class='ocrx_word' id='word_1_1' title='bbox 388 235 466 251; x_wconf 76' lang='lat' dir='ltr'>Romu</span> <span class='ocrx_word' id='word_1_2' title='bbox 476 235 547 251; x_wconf 78' lang='lat' dir='ltr'><strong>CURIAE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 557 236 624 251; x_wconf 83' lang='lat' dir='ltr'>REGIS.</span> <span class='ocrx_word' id='word_1_4' title='bbox 787 240 822 257; x_wconf 79' lang='lat'>155</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 505 286 627 308">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 505 286 627 308">
+     <span class='ocr_line' id='line_1_2' title="bbox 505 286 627 308; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 505 286 532 307; x_wconf 88' lang='lat' dir='ltr'>D&#39;</span> <span class='ocrx_word' id='word_1_6' title='bbox 543 287 584 307; x_wconf 74' lang='lat' dir='ltr'>mal</span> <span class='ocrx_word' id='word_1_7' title='bbox 595 294 627 308; x_wconf 89' lang='lat' dir='ltr'>ve.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 446 334 675 367">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 446 334 675 367">
+     <span class='ocr_line' id='line_1_3' title="bbox 446 334 675 367; baseline 0 -7"><span class='ocrx_word' id='word_1_8' title='bbox 446 339 522 361; x_wconf 78' lang='lat' dir='ltr'><strong><em>D&#39;m&#39;ca</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 533 336 560 367; x_wconf 72' lang='lat'>119</span> <span class='ocrx_word' id='word_1_10' title='bbox 571 334 636 360; x_wconf 60' lang='lat' dir='ltr'>Cirfleae</span> <span class='ocrx_word' id='word_1_11' title='bbox 644 342 675 361; x_wconf 69' lang='grc' dir='ltr'>Ἱὸ.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
